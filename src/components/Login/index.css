@@ -1,0 +1,64 @@
+.container {
+   border:solid;
+   padding: 10px;
+   
+}
+
+.login-card{
+   border: solid 1px black;       
+}
+
+.a{
+ display: flex;
+ justify-content: center;
+}
+
+.form{
+  border:solid 1px black;
+  padding: 18px;
+  border-radius: 2px;
+  width:33vw;
+  margin-top:100px;
+}
+
+.am {
+  display: flex;
+  justify-content: center;      
+
+  
+}
+.login-card {
+  background-color: #f1f1f1;
+  height: 100vh;
+}
+.head {
+   text-align: center;
+   font-weight: 550; 
+   margin-bottom: 20px;
+}
+
+.btn-card {
+  text-align: center;
+  margin:10px; 
+  margin-top:15px;       
+}
+.input-card{
+   margin-top: 14px;       
+}
+
+label {
+   margin-bottom: 5px;
+   margin-left:5px;
+   font-weight: 600;     
+       
+}
+.input{
+  padding: 10px;        
+}
+
+.btn{
+  background-color: blue;
+  color:white;
+  padding: 5px;
+  width:30vw;        
+}
